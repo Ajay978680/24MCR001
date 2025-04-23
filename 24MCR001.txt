@@ -2,3 +2,4 @@ Name: Ajaykanna K
 Reg.No: 24MCR001
 Dept: MCA
 Fav. Topic : Java
+Mobile Model: IQOO Z7s
